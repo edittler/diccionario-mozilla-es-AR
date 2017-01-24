@@ -5,7 +5,7 @@
   <Description about="urn:mozilla:install-manifest">
     <!-- Metadata -->
     <em:id>es-AR@dictionaries.addons.mozilla.org</em:id>
-    <em:version>2.5.1</em:version>
+    <em:version>2.6</em:version>
     <em:type>64</em:type>
     <em:unpack>true</em:unpack>
     <em:name>Diccionario Español Argentina</em:name>
