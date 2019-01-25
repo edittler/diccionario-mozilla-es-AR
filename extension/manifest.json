@@ -1,0 +1,13 @@
+{
+	"dictionaries": {
+		"es-AR": "dictionaries/es-AR.dic"
+	},
+	"version": "2.6.4",
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "es-AR@dictionaries.addons.mozilla.org"
+		}
+	},
+	"name": "Diccionario español Argentina",
+	"manifest_version": 2
+}
