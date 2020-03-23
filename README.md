@@ -1,6 +1,9 @@
 # Diccionario corrector de Español de Argentina para Mozilla
 
-[Diccionario corrector de Español de Argentina oficial](https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-argentina/) de los productos de Mozilla.
+Diccionario corrector de Español de Argentina oficial de los productos de Mozilla.
+
+* [Firefox](https://addons.mozilla.org/es/firefox/addon/diccionario-espa%C3%B1ol-argentina/)
+* [Thunderbird](https://addons.thunderbird.net/en-US/thunderbird/addon/diccionario-espa%C3%B1ol-argentina/)
 
 ## Desarrollo
 
