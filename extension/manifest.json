@@ -2,7 +2,7 @@
 	"dictionaries": {
 		"es-AR": "dictionaries/es-AR.dic"
 	},
-	"version": "2.6.5",
+	"version": "2.6.6",
 	"applications": {
 		"gecko": {
 			"id": "es-AR@dictionaries.addons.mozilla.org"
